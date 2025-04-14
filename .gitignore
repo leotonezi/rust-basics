@@ -1,5 +1,5 @@
-# Ignore target build directory
-/target/
+# Ignore all Rust build directories recursively
+**/target/
 
 # Ignore Cargo lock file for libraries
 Cargo.lock
