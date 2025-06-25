@@ -27,7 +27,7 @@ To create a new project:
 cargo new project_name
 cd project_name
 cargo run
-
+```
 
 To build and run existing projects:
 
